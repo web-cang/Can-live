@@ -253,7 +253,7 @@ header p:nth-child(2){
     height:105px;
 }
 footer{
-    width:100%;
+    width:100%;/*宽度*/
     height:115px;
     font-size: 1em;
     text-align: center;
